@@ -9,11 +9,13 @@ I am not responsible for what you do with this script.
 Copy list of IP:Port to proxylist.txt
 
 and then execute:
-
-#python proxy.py 
+```
+python proxy.py
+``` 
 or
-#./proxy.py
-
+```
+./proxy.py
+```
 50 threads will be spawned to check your list.
 
 
